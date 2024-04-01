@@ -1,0 +1,14 @@
+C:\Users\adjam\OneDrive\Bureau\projet2C#\bin\Debug\net8.0\projet2C#.exe
+C:\Users\adjam\OneDrive\Bureau\projet2C#\bin\Debug\net8.0\projet2C#.deps.json
+C:\Users\adjam\OneDrive\Bureau\projet2C#\bin\Debug\net8.0\projet2C#.runtimeconfig.json
+C:\Users\adjam\OneDrive\Bureau\projet2C#\bin\Debug\net8.0\projet2C#.dll
+C:\Users\adjam\OneDrive\Bureau\projet2C#\bin\Debug\net8.0\projet2C#.pdb
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.AssemblyInfoInputs.cache
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.AssemblyInfo.cs
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.csproj.CoreCompileInputs.cache
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.dll
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\refint\projet2C#.dll
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.pdb
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\projet2C#.genruntimeconfig.cache
+C:\Users\adjam\OneDrive\Bureau\projet2C#\obj\Debug\net8.0\ref\projet2C#.dll
